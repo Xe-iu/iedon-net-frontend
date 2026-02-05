@@ -187,7 +187,7 @@ export default {
       reuseExistingConfig: '沿用我之前配置的端点或端口（我们的）',
     },
     landing: {
-      subTitle: 'iEdon Networks（iEdon-Net），始于 2017。自 2019 年 3 月加入 DN42 网络。',
+      subTitle: 'Xeiu Network，成立于 2025 年，容易跑路。目前仅有 DN42 网络（未来可期）。',
       startPeering: '即时互联',
       grafanaOverview: '在 Grafana 查看概览',
       globalNetworkMap: '全球网络地图',

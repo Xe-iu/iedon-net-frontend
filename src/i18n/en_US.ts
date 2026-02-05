@@ -188,7 +188,7 @@ export default {
       reuseExistingConfig: 'Keep the same endpoint or port assignment(ours) from my previous configuration',
     },
     landing: {
-      subTitle: 'iEdon Networks (iEdon-Net), Since 2017. Part of the DN42 Network since March 2019.',
+      subTitle: 'Xeiu Network, established in 2025, is currently focused on DN42 networking, with promising prospects for future development.',
       startPeering: 'Instant Peering',
       grafanaOverview: 'Overview in Grafana',
       globalNetworkMap: 'Global Network Map',
