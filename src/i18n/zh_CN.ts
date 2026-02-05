@@ -1,9 +1,9 @@
 export default {
   meta: {
-    description: 'iEdon Networks (iEdon-Net)，成立于 2017 年。自 2019 年 3 月加入 DN42 网络。',
-    keywords: 'DN42,iEdon,4242422189,iEdon-Net,AutoPeer,Peer,NEONETWORK,ICVPN,CHAOSVPN,BGP,自动对等,对等连接,ASN,对等节点,实时,BGP,网络,路由,BIRD,FRR,FRRouting',
-    ogTitle: 'iEdon Networks (iEdon-Net)',
-    ogSiteName: 'iEdon-Net'
+    description: 'Xeiu Network，成立于 2025 年，容易跑路。目前仅有 DN42 网络（未来可期）。',
+    keywords: 'DN42,Xeiu,4242421336,Xeiu Network,AutoPeer,Peer,NEONETWORK,ICVPN,CHAOSVPN,BGP,自动对等,对等连接,ASN,对等节点,实时,BGP,网络,路由,BIRD,FRR,FRRouting',
+    ogTitle: 'Xeiu Network (Xeiu Net)',
+    ogSiteName: 'Xeiu Network'
   },
   header: {
     home: '首页',
