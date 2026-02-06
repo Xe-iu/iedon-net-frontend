@@ -10,7 +10,7 @@ export default {
     root: '/',
     version: pkg.version,
     package: `${pkg.name}/${pkg.version}`,
-    apiPrefix: 'https://api.dn42.xeiu.top/',
+    apiPrefix: 'https://api.dn42.xeiu.top',
     pingIntervalMs: 180000,
     configFallback: {
         netAsn: '4242421336',
